@@ -1,0 +1,307 @@
+{
+    "items": [
+        {
+            "title": "Mac",
+            "image": [
+                "MacAirBanner",
+                "Macbook Pro 13 Banner",
+                "macbook14",
+                "Macbook Pro 14&16 Banner",
+                "Mac mini banner",
+                "iMac 24 Banner",
+                "MacStudioBanner",
+                "Studio Display Banner"
+            ],
+            "products": [
+                "MacBook Air",
+                "MacBook Pro 13 inch",
+                "MacBook Pro 14 inch",
+                "MacBook Pro 16 inch",
+                "Mac mini",
+                "iMac 24 inch",
+                "Mac Studio",
+                "Màn hình"
+            ]
+        },
+        {
+            "title": "iPad",
+            "image": [
+                    "iPad Pro Banner",
+                    "iPad Air 5 Banner",
+                    "iPad Banner",
+                    "iPad mini Banner"
+            ],
+            "products": [
+                    "iPad Pro",
+                    "iPad Air",
+                    "iPad",
+                    "iPad mini"
+            ]
+        },
+        {
+            "title": "iPhone",
+            "image": [
+                    "Iphone 14 Pro Banner",
+                    "Iphone 14 Banner",
+                    "iphone13",
+                    "iPhone12 Banner",
+                    "Iphone SE Banner"
+            ],
+            "products": [
+                    "iPhone 14 Pro",
+                    "iPhone 14",
+                    "iPhone 13",
+                    "iPhone 12",
+                    "iPhone SE"
+            ]
+        },
+        {
+            "title": "Watch",
+            "image": [
+                    "Watch Ultra Banner",
+                    "Wtach S8 Banner",
+                    "Watch SE Banner"
+            ],
+            "products": [
+                    "Apple Watch Ultra",
+                    "Apple Watch Series 8",
+                    "Apple Watch SE"
+            ]
+        },
+        {
+            "title": "AirPods",
+            "image": [
+                    "AirPods Pro 2 Banner",
+                    "AirPods 3 Banner",
+                    "AirPods 2 Banner"
+            ],
+            "products": [
+                    "AirPods Pro 2",
+                    "AirPods 3",
+                    "AirPods 2"
+            ]
+        },
+        {
+            "title": "TV & Nhà",
+            "image": [
+                    "TVBanner",
+                    "Home Pod mini"
+            ],
+            "products": [
+                    "Apple TV 4K",
+                    "HomePod mini"
+            ]
+        },
+        {
+            "title": "Phụ kiện",
+            "image": [
+                    "accBanner",
+                    "pen2"
+            ],
+            "products": [
+                    "Air Tag",
+                    "Apple pencil 2"
+            ]
+        }
+    ],
+    "products": [
+        {
+            "name": "Macbook Air",
+            "nameSub": ["M1", "M2", "M2"],
+            "statusProducts": ["Hết hàng", "Còn hàng", "Còn hàng"],
+            "compareImageName": ["AirM1vM2", "AirM1vsM2", "GPU8Cvs10C", "M2Chip"],
+            "imageOverview": ["MacBookAirM1Overview", "MacBookAirM2Overview", "MacBookAirM2Overview"],
+            "imageSpecs": ["AirM1Specs", "AirM2Specs", "AirM2Specs"],
+            "buttonTitle": ["CPU M1 với 8-CPU và 7-GPU", "CPU M2 với 8-CPU và 8-GPU", "CPU M2 với 8-CPU và 10-GPU"],
+            "cost": [25.0, 30.0, 36.5],
+            "ratting": [9.7, 8.2, 7.7],
+            "numberOfCmt": [123, 34, 12],
+            "imageProducts1": ["AirM1AllColor1",
+                                  "AirM1Space1",
+                                  "AirM1Space2",
+                                  "AirM1Space3",
+                                  "AirM1Space4",
+                                  "AirM1Space5",
+                                  "AirM1Silver1",
+                                  "AirM1Silver2",
+                                  "AirM1Silver3",
+                                  "AirM1Silver4",
+                                  "AirM1Silver5",
+                                  "AirM1Gold1",
+                                  "AirM1Gold2",
+                                  "AirM1Gold3",
+                                  "AirM1Gold4",
+                                  "AirM1Gold5"
+                                                ],
+            "imageProducts2": ["AirM2AllColor1",
+                                  "AirM2Grey1",
+                                  "AirM2Grey2",
+                                  "AirM2Grey3",
+                                  "AirM2Grey4",
+                                  "AirM2Grey5",
+                                  "AirM2Grey6",
+                                  "AirM2Midnight1",
+                                  "AirM2Midnight2",
+                                  "AirM2Midnight3",
+                                  "AirM2Midnight4",
+                                  "AirM2Midnight5",
+                                  "AirM2Midnight6",
+                                  "AirM2Grey1",
+                                  "AirM2Grey2",
+                                  "AirM2Grey3",
+                                  "AirM2Grey4",
+                                  "AirM2Grey5",
+                                  "AirM2Grey6",
+                                  "AirM2Gold1",
+                                  "AirM2Gold2",
+                                  "AirM2Gold3",
+                                  "AirM2Gold4",
+                                  "AirM2Gold5",
+                                  "AirM2Gold6"
+                                                ],
+            "imageProducts3": ["AirM2AllColor1",
+                                  "AirM2Grey1",
+                                  "AirM2Grey2",
+                                  "AirM2Grey3",
+                                  "AirM2Grey4",
+                                  "AirM2Grey5",
+                                  "AirM2Grey6",
+                                  "AirM2Midnight1",
+                                  "AirM2Midnight2",
+                                  "AirM2Midnight3",
+                                  "AirM2Midnight4",
+                                  "AirM2Midnight5",
+                                  "AirM2Midnight6",
+                                  "AirM2Grey1",
+                                  "AirM2Grey2",
+                                  "AirM2Grey3",
+                                  "AirM2Grey4",
+                                  "AirM2Grey5",
+                                  "AirM2Grey6",
+                                  "AirM2Gold1",
+                                  "AirM2Gold2",
+                                  "AirM2Gold3",
+                                  "AirM2Gold4",
+                                  "AirM2Gold5",
+                                  "AirM2Gold6"
+                                                ],
+            "imageProducts4": ["0"],
+            "imageProducts5": ["0"],
+            "imageProducts6": ["0"],
+            "tutorial1": ["Chọn màu sắc mà bạn yêu thích.",
+                             "Chọn dung lượng RAM phù hợp với bạn.",
+                             "Chọn dung lượng bộ nhớ trong phù hợp với bạn.",
+                             "Bạn muốn mua AppleCare chứ?"],
+            "tutorial2": ["Chọn màu sắc mà bạn yêu thích.",
+                             "Chọn dung lượng RAM phù hợp với bạn.",
+                             "Chọn dung lượng bộ nhớ trong phù hợp với bạn.",
+                             "Chọn bộ sạc phù hợp với bạn.",
+                             "Bạn muốn mua AppleCare chứ?"],
+            "tutorial3": ["Chọn màu sắc mà bạn yêu thích.",
+                             "Chọn dung lượng RAM phù hợp với bạn.",
+                             "Chọn dung lượng bộ nhớ trong phù hợp với bạn.",
+                             "Chọn bộ sạc phù hợp với bạn.",
+                             "Bạn muốn mua AppleCare chứ?"],
+            "tutorial4": "0",
+            "tutorial5": "0",
+            "tutorial6": "0",
+            "numberImageGeneral": [1, 1, 1 ],
+            "numberImagePerOption1_1": [5, 6, 6],
+            "option1_1": ["Xám", "Bạc", "Vàng"],
+            "option1_2": ["Xám", "Xanh", "Bạc", "Vàng"],
+            "option1_3": ["Xám", "Xanh", "Bạc", "Vàng"],
+            "option1_4": ["0"],
+            "option1_5": ["0"],
+            "option1_6": ["0"],
+            "costOption1_1": [0.0, 0.0, 0.0],
+            "costOption1_2": [0.0, 0.0, 0.0, 0.0],
+            "costOption1_3": [0.0, 0.0, 0.0, 0.0],
+            "costOption1_4": [0.0],
+            "costOption1_5": [0.0],
+            "costOption1_6": [0.0],
+            "option2_1": ["8GB", "16GB"],
+            "option2_2": ["8GB", "16GB", "24GB"],
+            "option2_3": ["8GB", "16GB", "24GB"],
+            "option2_4": ["0"],
+            "option2_5": ["0"],
+            "option2_6": ["0"],
+            "costOption2_1": [0.0, 5.0],
+            "costOption2_2": [0.0, 5.0, 10.0],
+            "costOption2_3": [0.0, 5.0, 10.0],
+            "costOption2_4": [0.0],
+            "costOption2_5": [0.0],
+            "costOption2_6": [0.0],
+            "option3_1": ["256GB", "512GB", "1TB", "2TB"],
+            "option3_2": ["256GB", "512GB", "1TB", "2TB"],
+            "option3_3": ["0"],
+            "option3_4": ["0"],
+            "option3_5": ["0"],
+            "option3_6": ["0"],
+            "costOption3_1": [0.0, 5.0, 10.0, 20.0],
+            "costOption3_2": [0.0, 5.0, 10.0, 20.0],
+            "costOption3_3": [0.0, 5.0, 10.0, 20.0],
+            "costOption3_4": [0.0],
+            "costOption3_5": [0.0],
+            "costOption3_6": [0.0],
+            "option4_1": ["Không AppleCare+", "AppleCare+ 1năm", "AppleCare+ 3năm"],
+            "option4_2": ["Sạc 1 cổng 30W", "Sạc 2 cổng 35W", "Sạc 1 cổng 65W"],
+            "option4_3": ["Sạc 1 cổng 30W", "Sạc 2 cổng 35W", "Sạc 1 cổng 65W"],
+            "option4_4": ["0"],
+            "option4_5": ["0"],
+            "option4_6": ["0"],
+            "costOption4_1": [0.0, 1.7, 4.7],
+            "costOption4_2": [0.0, 0.5, 0.5],
+            "costOption4_3": [0.0, 0.5, 0.5],
+            "costOption4_4": [0.0],
+            "costOption4_5": [0.0],
+            "costOption4_6": [0.0],
+            "option5_1": ["0"],
+            "option5_2": ["Không AppleCare+", "AppleCare+ 1năm", "AppleCare+ 3năm"],
+            "option5_3": ["Không AppleCare+", "AppleCare+ 1năm", "AppleCare+ 3năm"],
+            "option5_4": ["0"],
+            "option5_5": ["0"],
+            "option5_6": ["0"],
+            "costOption5_1": [0.0],
+            "costOption5_2": [0.0, 1.9, 5.5],
+            "costOption5_3": [0.0, 1.9, 5.5],
+            "costOption5_4": [0.0],
+            "costOption5_5": [0.0],
+            "costOption5_6": [0.0],
+            "widthImageOver": [677, 683, 683],
+            "heightImageOver": [10339, 3088, 3088],
+            "widthImageSpecs": [1003, 995, 995],
+            "heightImageSpecs": [7173, 8710, 8710]
+        },
+    ],
+    "help": [
+        {
+            "city": "Chọn tỉnh thành",
+            "content": "\nTổng đài hỗ trợ Apple Tiếng Việt là tổng đài kết nối trực tiếp với nhân viên chăm sóc khách hàng của Apple để hỗ trợ giải đáp các vấn đề liên quan đến sản phẩm của Apple như iPhone, iPad, MacBook, iMac,... Nhân viên chăm sóc khách hàng sẽ giải đáp bằng tiếng Việt hoàn toàn miễn phí.\n \n - Số điện thoại tổng đài hỗ trợ Apple Tiếng Việt: 1800 1127 \n\n - Thời gian hoạt động: Từ 9h - 18h, thứ 2 - thứ 6. \n\n * Một số câu hỏi thường gặp: \n - Gọi tổng đài Apple ngoài giờ có được không? \n TL: Được, nhưng bạn sẽ gặp nhân viên nói chuyện bằng tiếng Anh do đã ngoài giờ làm việc của nhân viên tiếng Việt. \n  - Tổng đài gọi điện lại sử dụng tiếng Anh? \n TL: Nếu tổng đài gọi cho bạn nhưng đầu dây nói tiếng Anh, bạn chỉ cần nói Viet Nam hoặc gác máy để nhân viên gọi lại bạn lần sau với tiếng Việt."
+        },
+        {
+            "city": "Hà Nội",
+            "content": "1 - VietcomIndo\n\n - Địa chỉ: 389A-391 Trường Chinh, P.Khương Trung, Q.Thanh Xuân, Hà Nội. \n - Sản phẩm nhận bảo hành: Điện thoại di động, Laptop, Máy tính bảng, Đồng hồ thông minh \n - Điện thoại: 02473.077977 \n\n\n\n\n * Số điện thoại tổng đài hỗ trợ Apple Tiếng Việt: 1800 1127 \n\n * Thời gian hoạt động: Từ 9h - 18h, thứ 2 - thứ 6."
+        },
+        {
+            "city": "Hồ Chí Minh",
+            "content": "1 - TOPCARE-thegioididong\n - Địa chỉ: Số 249 Nguyễn Văn Luông, Phường 11, Quận 6, Thành phố Hồ Chí Minh. \n - Sản phẩm nhận bảo hành: Điện thoại di động, Laptop, Máy tính bảng, Đồng hồ thông minh, Phụ kiện \n - Điện thoại: 18001783\n\n 2 - \n - Địa chỉ: 32 Cách Mạng Tháng 8 , Phường 6 , Quận 3, HCM. \n - Sản phẩm nhận bảo hành: Điện thoại di động, Laptop, Máy tính bảng, Đồng hồ thông minh \n - Điện thoại: 0283 9308549/50/51\n\n3 - TTBH Vietcomindo\n - Địa chỉ: 31 Phan Bội Châu, Phường 14, Quận Bình Thạnh, TP. HCM. \n - Sản phẩm nhận bảo hành: Điện thoại di động, Laptop, Máy tính bảng, Đồng hồ thông minh\n - Điện thoại: 0283.9952955\n\n 4 - TTBH Thuận Mỹ\n - Địa chỉ:02 Thảo Điền Q2, TP HCM. \n - Sản phẩm nhận bảo hành: Điện thoại di động, Laptop, Máy tính bảng, Đồng hồ thông minh\n - Điện thoại: 028 35194277/78/79 - 0903652326\n\n 5 - NPP FPT\n - Địa chỉ: Số 72B Đinh Tiên Hoàng, P. Đa Kao, Quận 1,TP.HCM\n - Sản phẩm nhận bảo hành: Điện thoại di động, Đồng hồ thông minh\n - Điện thoại: 028 73000911 \n\n\n\n\n * Số điện thoại tổng đài hỗ trợ Apple Tiếng Việt: 1800 1127 \n\n * Thời gian hoạt động: Từ 9h - 18h, thứ 2 - thứ 6."
+        },
+        {
+            "city": "Cần Thơ",
+            "content": "1 - \n - Địa chỉ: 117 Lý Tự Trọng - An Phú - Ninh Kiều - Cần Thơ\n - Sản phẩm nhận bảo hành: Điện thoại di động, Laptop, Máy tính bảng, Đồng hồ thông minh\n - Điện thoại: 0292 - 3734415/16 - 0903652326\n\n2 - \n - Địa chỉ: 90 Ung Văn Khiêm ( TTTM Cái Khế ), Phường Cái Khế, Q Ninh Kiều, TP Cần Thơ\n - Sản phẩm nhận bảo hành: Điện thoại di động, Laptop, Đồng hồ thông minh\n - Điện thoại: 0292 3781978"
+        },
+        {
+            "city": "Đà Nẵng",
+            "content": "1 - \n - Địa chỉ: 38 Lê Đình Lý ,P. Thạc Gián , Q. Thanh Khê , TP Đà Nẵng\n - Sản phẩm nhận bảo hành: Điện thoại di động, Đồng hồ thông minh\n - Điện thoại: 0236 3562662"
+        },
+        {
+            "city": "Hải Phòng",
+            "content": "1 - \n - Địa chỉ: Số 66 Đường 5 Khu đô thị Ven sông Lạch Tray, Đường Võ Nguyên Giáp, Phường Kênh Dương, Quận Lê Chân, TP Hải Phòng\n - Sản phẩm nhận bảo hành: Điện thoại di động, Đồng hồ thông minh\n - Điện thoại: 02253 835845"
+        },
+        {
+            "city": "Nghệ An",
+            "content": "1 - \n - Địa chỉ:  Nguyễn Thị Minh Khai , Phường Hưng Bình - TP Vinh - Nghệ An\n - Sản phẩm nhận bảo hành: Điện thoại di động, Đồng hồ thông minh\n - Điện thoại: 0238 8767368"
+        },
+        ]
+}
+
